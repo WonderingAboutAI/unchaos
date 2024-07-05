@@ -19,3 +19,6 @@ Group related AI responses into collections based on topics, making it easy to r
 
 #### Bookmark conversations and responses: 
 Mark especially useful parts of your conversations for easy access later. Bookmarking helps you keep track of significant interactions without disrupting the flow of your work.
+
+## Technologies
+Python, Claude, Django, HTML, JavaScript
