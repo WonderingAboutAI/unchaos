@@ -1,5 +1,5 @@
 # Unchaos - Coming Soon
-Easily store, tag, and organize prompts and AI responses
+### Easily store, tag, and organize prompts and AI responses
 
 Unchaos is an innovative content management system designed to streamline interactions with AI. It allows you to easily tag, search, sort, and store AI prompts and responses, making it simple to navigate and manage lengthy conversations. With features like customizable tagging, comprehensive search functionality, and the ability to create collections of reusable prompts and topical AI responses, Unchaos helps you keep track of important information so you can focus on your projects without getting lost in a maze of threads.
 
